@@ -20,6 +20,7 @@ const HELP_ITEMS = [
 ];
 
 // Ahihi
+// ahihi dongok
 
 function HelpArea() {
   return (
